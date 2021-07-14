@@ -28,5 +28,5 @@ Ada Lovelace (before first computer was made)
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
