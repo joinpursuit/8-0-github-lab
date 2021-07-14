@@ -9,6 +9,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
+ECMAScript 6: is a standard for sripting language
 
 ```
 
