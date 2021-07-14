@@ -26,6 +26,8 @@ What English mathematician and writer is often regarded as the first computer pr
 
 ```
 
+English mathematician Augusta Ada Lovelace has been called the world's first computer programmer. What she did was write the world’s first machine algorithm in the mid-1800s for an early computing machine that existed only on paper. Side note she was the daughter of poet Lord Byron.
+
 ```
 
 Who is the "Turing machine" named after?
