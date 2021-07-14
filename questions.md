@@ -27,5 +27,5 @@ English mathematician Ada Lovelace, the daughter of poet Lord Byron, has been ca
 Who is the "Turing machine" named after?
 
 ```
-
+A Turing machine is the original idealized model of a computer, invented by Alan Turing in 1936. Turing machines are equivalent to modern electronic computers at a certain theoretical level, but differ in many details.
 ```
