@@ -9,6 +9,7 @@ Brendan Eich was borned in 1995
 What does "ES6" stand for?
 
 ```
+EMACSCRIPT 6
 
 ```
 
