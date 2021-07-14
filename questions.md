@@ -9,7 +9,7 @@ Brendan Eich created JavaScript  in 1995
 What does "ES6" stand for?
 
 ```
-
+ES6 stands for ECMAScript and was created to standardize JavaScript
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
