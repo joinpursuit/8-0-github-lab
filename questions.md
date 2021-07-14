@@ -29,5 +29,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alonzo Church
 ```
