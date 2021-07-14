@@ -11,7 +11,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
-
+ECMAScript 6
 
 
 ```
