@@ -9,7 +9,7 @@ April 1995
 What does "ES6" stand for?
 
 ```
-
+ECMAScript from ECMA-262 doc
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
