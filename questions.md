@@ -27,5 +27,5 @@ Augusta Ada King, Countess of Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
