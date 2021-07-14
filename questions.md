@@ -33,5 +33,6 @@ English mathematician Augusta Ada Lovelace has been called the world's first com
 Who is the "Turing machine" named after?
 
 ```
+The Turing machine was named after the English mathematician and logician Alan M. Turning from Manchester UK. First described by Alan Turing in Turing 1936–7, American Alonzo Church and later Turning's co-author, first coined the phrase 'Turing machines' after reviwing Turing's 1936 paper. 
 
 ```
