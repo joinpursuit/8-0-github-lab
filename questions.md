@@ -21,7 +21,7 @@ Google's unofficial motto has long been the simple phrase “don't be evil.” B
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+English mathematician Ada Lovelace, the daughter of poet Lord ... "the first computer programmer" for writing an algorithm for a computing ... For her work, Lovelace is often considered to be the first computer programmer.
 ```
 
 Who is the "Turing machine" named after?
