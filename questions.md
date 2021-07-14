@@ -27,5 +27,5 @@ Augusta Ada King
 Who is the "Turing machine" named after?
 
 ```
-
+Turing's 'automatic machines', as he termed them in 1936, were specifically devised for the computing of real numbers. They were first named 'Turing machines' by Alonzo Church in a review of Turing's paper (Church 1937).
 ```
