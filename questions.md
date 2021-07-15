@@ -21,7 +21,7 @@ Google used this in there code of conduct.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+That was Ada Lovelace.
 ```
 
 Who is the "Turing machine" named after?
