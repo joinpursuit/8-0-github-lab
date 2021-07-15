@@ -12,8 +12,7 @@ What does "ES6" stand for?
 ECMAScript 6
 ```
 
-What company famously used the phrase "Don't be evil" in their code of conduct?
-
+What company famously used the phrase 
 ```
 Google's unofficial motto has long been the simple phrase “don't be evil.”
 ```
