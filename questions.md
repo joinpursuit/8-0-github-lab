@@ -29,3 +29,4 @@ Who is the "Turing machine" named after?
 ```
 The Turing Machine was invented in 1936 by Alan Turing, the machine was named after him even though he called it the a-machine, automatic machines.  
 ```
+End of lab, Vanessa Conti
