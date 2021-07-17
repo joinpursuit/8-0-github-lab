@@ -24,7 +24,7 @@ It was Google.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace, who was the daughter of the famous poet Lord Byron.
 ```
 
 Who is the "Turing machine" named after?
