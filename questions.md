@@ -10,6 +10,7 @@ Brendan Eich created JavaScript in 1995.
 What does "ES6" stand for?
 
 ```
+ECMAScript 6. ECMA stands for European Computer Manufacturer's Association, but that full name isn't in wide use.
 
 ```
 
