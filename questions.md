@@ -30,5 +30,5 @@ Ada Lovelace, who was the daughter of the famous poet Lord Byron.
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing. 
 ```
