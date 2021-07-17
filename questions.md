@@ -17,6 +17,7 @@ ECMAScript 6. ECMA stands for European Computer Manufacturer's Association, but 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
+It was Google.
 
 ```
 
