@@ -9,6 +9,8 @@ Brendan Eich created JavaScript in 1995
 What does "ES6" stand for?
 
 ```
+ECMAScript 6 which is the second major revision to JavaScript.
+
 
 ```
 
