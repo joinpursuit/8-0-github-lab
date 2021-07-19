@@ -1,6 +1,6 @@
 # Questions
 
-What year did Brendan Eich create JavaScript?
+What year did Brendan Eich create JavaScript? 
 
 ```
 Brendan Eigh developed JavaScript inside ten days in 1995.
