@@ -29,5 +29,5 @@ Ada Lovelace wrote the first algorithm for Charles Babbage's the Analytical Engi
 Who is the "Turing machine" named after?
 
 ```
-The Turing maching was named after Alan Turing who invented it in 1936.
+The Turing machine was named after Alan Turing who invented it in 1936.
 ```
