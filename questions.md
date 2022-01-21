@@ -4,7 +4,6 @@ What year did Brendan Eich create JavaScript?
 
 ```
 1995
-
 ```
 
 What does "ES6" stand for?
@@ -28,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
