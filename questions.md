@@ -27,5 +27,6 @@ What English mathematician and writer is often regarded as the first computer pr
 Who is the "Turing machine" named after?
 
 ```
+Alan Turing, known as the father of computer science!
 
 ```
