@@ -3,7 +3,7 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-
+Brendan Eich created Javascript in September of 1995.
 ```
 
 What does "ES6" stand for?
