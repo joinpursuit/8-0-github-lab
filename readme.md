@@ -1,6 +1,8 @@
 # GitHub Lab
 
-Help! One of your classmates needs help finding out the answers to these historical questions.
+~~Bethany's Personal Copy~~
+
+Help! One of your classmates needs help finding out the answers to these historical questions. 
 
 ## Instructions
 
