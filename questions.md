@@ -23,7 +23,7 @@ Google
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace is considered the first computer programmer. Even though she wrote about a computer, the Analytical Engine, that was never built, she realized that the computer could follow a series of simple instructions, a program, to perform a complex calculation.
 ```
 
 Who is the "Turing machine" named after?
