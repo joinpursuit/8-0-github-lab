@@ -16,7 +16,8 @@ ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript,
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google
+"Don't be evil" is a phrase used in Google's corporate code of conduct, which it also formerly preceded as a motto. 
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
