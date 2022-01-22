@@ -13,6 +13,8 @@ Communications was working to make it available in Netscape Communicator.
 What does "ES6" stand for?
 
 ```
+ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript,
+since the organization ECMA International creates the standard.
 
 ```
 
