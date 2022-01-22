@@ -30,7 +30,12 @@ thing" as its motto, also forming the opening of its corporate code of conduct.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Augusta Ada King, Countess of Lovelace aka Ada Lovelace (née Byron; 10 December 1815 – 27
+November 1852) was an English mathematician and writer, chiefly known for her work on Charles
+Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the
+first to recognise that the machine had applications beyond pure calculation, and to have
+published the first algorithm intended to be carried out by such a machine. As a result, she is
+often regarded as the first computer programmer.
 ```
 
 Who is the "Turing machine" named after?
