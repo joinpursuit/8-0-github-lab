@@ -3,6 +3,10 @@
 What year did Brendan Eich create JavaScript?
 
 ```
+Brendan Eich created JavaScript in 1995 while he was at Netscape Communications
+Corporation, the creators of the legendary Netscape Navigator web browser. At the
+time, the Java coding language was rapidly gaining traction and Netscape
+Communications was working to make it available in Netscape Communicator.
 
 ```
 
