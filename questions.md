@@ -21,7 +21,10 @@ since the organization ECMA International creates the standard.
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+"Don't be evil" is a phrase famously used in Google's corporate code of conduct, which it
+also formerly preceded as a motto. Following Google's corporate restructuring
+under the conglomerate Alphabet Inc. in October 2015, Alphabet took "Do the right
+thing" as its motto, also forming the opening of its corporate code of conduct.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
