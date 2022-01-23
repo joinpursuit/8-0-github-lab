@@ -27,5 +27,5 @@ Ada Lovelance is considered one of the original programmers.
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turning the invetor of the device.
 ```
