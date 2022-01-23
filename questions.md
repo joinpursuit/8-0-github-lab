@@ -17,6 +17,7 @@ ECMAScript 6 - another official name for javascript.
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
+Google. Who ironically has become fairly evil.
 
 ```
 
