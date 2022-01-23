@@ -21,7 +21,7 @@ Google was the company sharing this motto.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelance is considered one of the original programmers.
 ```
 
 Who is the "Turing machine" named after?
