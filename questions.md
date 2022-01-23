@@ -10,6 +10,7 @@ Brendan Eich created JavaScript in 1995 while he was at Netscape Communications 
 What does "ES6" stand for?
 
 ```
+ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard
 
 ```
 
