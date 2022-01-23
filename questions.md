@@ -15,7 +15,7 @@ ECMAScript 6 - Another offical name for Javascript
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google was the company sharing this motto.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
