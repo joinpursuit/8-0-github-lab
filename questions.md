@@ -9,7 +9,7 @@ In the year 1995.
 What does "ES6" stand for?
 
 ```
-
+ECMAScript 6 - Another offical name for Javascript
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
