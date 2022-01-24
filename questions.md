@@ -21,7 +21,7 @@ Google
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace has been called the world's first computer programmer. What she did was write the world’s first machine algorithm for an early computing machine that existed only on paper.
 ```
 
 Who is the "Turing machine" named after?
