@@ -9,13 +9,13 @@ Brendan Eich created JavaScript in 1995 while he was at Netscape Communications 
 What does "ES6" stand for?
 
 ```
-
+ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
