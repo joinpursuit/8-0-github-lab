@@ -27,5 +27,5 @@ Ada Lovelace has been called the world's first computer programmer. What she did
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Mathison Turing, Often considered the father of modern computer science, 
 ```
