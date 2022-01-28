@@ -16,6 +16,7 @@ What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
 
+"Don't be evil" was a phrase used in Google's corporate code of conduct,
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
