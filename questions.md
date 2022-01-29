@@ -26,6 +26,8 @@ What English mathematician and writer is often regarded as the first computer pr
 
 ```
 
+Ada Lovelace 
+
 ```
 
 Who is the "Turing machine" named after?
