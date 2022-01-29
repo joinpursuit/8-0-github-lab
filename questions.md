@@ -3,12 +3,14 @@
 What year did Brendan Eich create JavaScript?
 
 ```
+1995 
 
 ```
 
 What does "ES6" stand for?
 
 ```
+ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard.
 
 ```
 
