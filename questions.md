@@ -16,6 +16,7 @@ ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript,
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
+GOOGLE
 
 ```
 
