@@ -6,7 +6,7 @@ What year did Brendan Eich create JavaScript?
 JavaScript was created at Netscape Communications by Brendan Eich in 1995. 
 
 ```
-
+ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard.
 
 
 ```
