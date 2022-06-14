@@ -27,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing who invented it in 1936.
 ```
