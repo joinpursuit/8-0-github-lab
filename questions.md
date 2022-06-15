@@ -22,7 +22,7 @@ Google.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+ada lovelace
 ```
 
 Who is the "Turing machine" named after?
