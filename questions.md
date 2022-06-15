@@ -10,6 +10,7 @@ December 4th 1995
 What does "ES6" stand for?
 
 ```
+ECMAScript 6
 
 ```
 
