@@ -15,7 +15,7 @@ ES6 stands for ECMAScript 6, which stands for - European Computer Manufacturers 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
