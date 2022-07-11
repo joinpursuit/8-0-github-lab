@@ -3,29 +3,29 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-
+_1995_
 ```
 
 What does "ES6" stand for?
 
 ```
-
+_ES6 stands for ECMAScript 6_
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+_'Don't be evil' had been Google's unofficial motto since 2000_
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+_mathematician Ada Lovelace_
 ```
 
 Who is the "Turing machine" named after?
 
 ```
-
+_Turing's 'automatic machines', as he termed them in 1936, were specifically devised for the computing of real numbers._
 ```
