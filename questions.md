@@ -15,7 +15,7 @@ Es6 also known as ECMAScript 6, is the newer version of JavaScript introduced in
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
