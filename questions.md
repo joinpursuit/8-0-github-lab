@@ -15,7 +15,7 @@ What does "ES6" stand for?
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+// Google corporate
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
