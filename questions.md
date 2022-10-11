@@ -3,13 +3,13 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-
+Brendan Eich create JavaScript in 1995.
 ```
 
 What does "ES6" stand for?
 
 ```
-
+"ES" also stands for ECMAScript 6;
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
