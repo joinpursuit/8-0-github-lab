@@ -27,5 +27,5 @@ Augusta Ada King-Noel, Countess of Lovelace "Also known as Lady Lovelace"
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing.
 ```
