@@ -21,7 +21,7 @@ The company that uses the phrase "Don't be evil" in their code of conduct is Goo
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Augusta Ada King-Noel is the English Mathematician and writer who is regarded as the first computer programmer.
 ```
 
 Who is the "Turing machine" named after?
