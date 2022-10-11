@@ -27,5 +27,5 @@ Augusta Ada King-Noel is often regarded as the first computer programmer.
 Who is the "Turing machine" named after?
 
 ```
-
+The "Turing machine" is named after Alan Turing
 ```
