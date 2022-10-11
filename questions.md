@@ -27,5 +27,5 @@ What English mathematician and writer is often regarded as the first computer pr
 Who is the "Turing machine" named after?
 
 ```
-_Turing's 'automatic machines', as he termed them in 1936, were specifically devised for the computing of real numbers._
+// Turing's 'automatic machines', as he termed them in 1936, were specifically devised for the computing of real numbers.
 ```
