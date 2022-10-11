@@ -27,5 +27,5 @@ Augusta Ada King-Noel
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
