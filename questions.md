@@ -28,6 +28,7 @@ What English mathematician and writer is often regarded as the first computer pr
 
 ```
 
+Augusta Ada King-Noel
 
 
 ```
