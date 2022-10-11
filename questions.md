@@ -30,5 +30,5 @@ Augusta Ada King-Noel, the English mathematician and writer is regarded as the f
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing 
 ```
