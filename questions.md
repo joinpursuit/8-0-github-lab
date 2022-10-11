@@ -3,7 +3,7 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-ss
+// Brendan created JS in 1995
 ```
 
 What does "ES6" stand for?
