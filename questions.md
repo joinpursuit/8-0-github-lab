@@ -28,4 +28,6 @@ What English mathematician and writer is often regarded as the first computer pr
 Who is the "Turing machine" named after?
 
 ```
+// Alan Turing, who created the Turing Machine originally called it an a-machine (automatic machine.)
+
 ```
