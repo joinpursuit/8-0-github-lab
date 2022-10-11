@@ -15,7 +15,7 @@ ES6 stands for ECMAScript 6.
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google uses 'don't be evil' in their code of conduct.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
