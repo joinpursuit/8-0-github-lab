@@ -27,5 +27,5 @@ Augusta Ada King-Noel is the English Mathematician and writer who is regarded as
 Who is the "Turing machine" named after?
 
 ```
-
+The Turing machine was named after Alan Turing, it's inventor. 
 ```
