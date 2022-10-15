@@ -21,7 +21,7 @@ What company famously used the phrase "Don't be evil" in their code of conduct?
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-Augusta Ada King-Noel, Countess of Lovelace, was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
+// Augusta Ada King-Noel, Countess of Lovelace, was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
 ```
 
 Who is the "Turing machine" named after?
