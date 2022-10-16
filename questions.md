@@ -20,7 +20,7 @@ Google
 ECMAScript 6t English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ava Lovelace
 ```
 
 Who is the "Turing machine" named after?
