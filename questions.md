@@ -27,5 +27,5 @@ Ada Lovelace, also Augusta Ada King, Countess of Lovelace, is the English mathem
 Who is the "Turing machine" named after?
 
 ```
-
+The 'Turing machine' is named after Alan Turing.
 ```
