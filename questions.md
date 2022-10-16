@@ -21,7 +21,7 @@ Google. That's the most famous motto from Google.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace, in 1833.
 ```
 
 Who is the "Turing machine" named after?
