@@ -16,7 +16,7 @@ JavaScript ES6 (also known as ECMAScript 2015 or ECMAScript 6) is the newer vers
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
