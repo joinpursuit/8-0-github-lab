@@ -26,5 +26,6 @@ In 1833 Ada Lovelace met the mathematician Charles Babbage, who had designed a c
 Who is the "Turing machine" named after?
 
  
+Alan Turing
 
 ```
