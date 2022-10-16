@@ -15,7 +15,7 @@ What is ES6? ES6 stands for ECMAScript 6. ECMAScript was created to standardize 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google!
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
