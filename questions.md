@@ -19,6 +19,7 @@ google
 
 What English mathematician and writer is often regarded as the first computer programmer?
 
+In 1833 Ada Lovelace met the mathematician Charles Babbage, who had designed a calculating machine called the Difference Engine.
 
 ```
 
