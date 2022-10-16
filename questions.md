@@ -27,5 +27,5 @@ Ada Lovelace, in 1833.
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing.
 ```
